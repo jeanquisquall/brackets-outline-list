@@ -31,7 +31,8 @@ define(function (require, exports, module) {
         "Markdown (GitHub)":    require("src/languages/Markdown"),
         XML:                    require("src/languages/XML"),
         HTML:                   require("src/languages/XML"),
-        SVG:                    require("src/languages/XML")
+        SVG:                    require("src/languages/XML"),
+        Ruby:                   require("src/languages/Ruby")
     };
 
     function getOutline() {

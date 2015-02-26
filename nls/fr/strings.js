@@ -10,7 +10,7 @@ define({
     BUTTON_CLOSE: "Fermer Outline",
 
     COMMAND_SORT: "Liste courte",
-    COMMAND_UNNAMED: "Monter les fonctions anonymess",
+    COMMAND_UNNAMED: "Montrer les fonctions anonymes",
     COMMAND_ARGS: "Montrer les paramètres"
 });
 
